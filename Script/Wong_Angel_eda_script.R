@@ -1,7 +1,6 @@
 # Angel Wong 
 # EDA Script 
-# Project 1 
-# HGEN611 
+
 
 
 #YOU HAVE TO LOAD ALL KERAS AND RETICULATE FIRST AND RUN USE_PYTHON 
